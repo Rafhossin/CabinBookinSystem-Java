@@ -1,7 +1,11 @@
-package objectSolution;
+package circularQueueSolution;
+
+
+
+/** This class has been designed to hold guest array of size three.*/
 
 public class Cabin {
 
-public Passenger [] passenger = new Passenger[3];
+    Passenger[] passenger = new Passenger[3];
 
 }
